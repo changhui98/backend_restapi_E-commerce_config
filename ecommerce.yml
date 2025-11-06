@@ -1,6 +1,6 @@
 token:
   expiration-time: 864000000
-  secret: user_tokend8fe9034ab229bcf56e37e29e41cc4cfde09df03bdf402cecf3ae023bdf40ed8d8fe9034ab229bcf56e37e29e41cc4cf-update
+  secret: user_tokend8fe9034ab229bcf56e37e29e41cc4cfde09df03bdf402cecf3ae023bdf40ed8d8fe9034ab229bcf56e37e29e41cc4cf-update-change
 
 gateway:
   ip: 192.168.0.8
